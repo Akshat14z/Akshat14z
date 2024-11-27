@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akshat Patel</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer from India🪽⚡</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat14&label=Profile%20views&color=0e75b6&style=flat" alt="akshat14" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshat14" alt="akshat14" /></a> </p>
 
 - 🔭 I’m currently working on **autonomous fire extinguising robot**
 
-- 🌱 I’m currently learning **python language and premier pro**
+- 📹🪴 I’m currently learning **python language and premier pro**
 
 - 📫 How to reach me **patelakshat1411@gmail.com**
 
