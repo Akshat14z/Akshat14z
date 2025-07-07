@@ -1,6 +1,6 @@
-[![AKshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshat14z)](https://github.com/Akshat14z/github-readme-stats)
-<br clear="both">
 
+<br clear="both">
+[![AKshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshat14z)](https://github.com/Akshat14z/github-readme-stats)
 <h2 align="center">Hola! My name is Akshat Patel🐦‍🔥</h2>
 
 ###
