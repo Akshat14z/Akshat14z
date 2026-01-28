@@ -1,92 +1,185 @@
-<!-- SPIDER-MAN × SPACE THEMED GITHUB README -->
+<div align="center">
 
-<p align="center">
-  <img src="assets/spiderman-banner.png" />
-</p>
+<!-- HEADER BANNER -->
+<img src="./assets/header-banner.png" alt="Welcome to Akshat's Profile" width="100%"/>
 
-<h1 align="center">🕷️ AKSHAT PATEL</h1>
-<p align="center"><strong>Friendly Neighborhood Computer Science Engineer</strong></p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=E63946&center=true&vCenter=true&width=700&lines=Code+with+Responsibility;Spider-Verse+Mindset;UI%2FUX+%7C+Problem+Solving;Space+Vibes+Only" />
-</p>
+</div>
 
 ---
 
-## 🕸️ About Me
+<!-- PROFILE SECTION -->
+<div align="center">
+  <img src="./assets/profile-icon.png" alt="Akshat Patel" width="150" style="border-radius: 50%"/>
+  
+  # Hi there, I'm Akshat Patel! 👋
+  ### Software Developer | Tech Enthusiast | Problem Solver
+</div>
 
-<img align="right" src="assets/spiderman-chibi.gif" width="140" />
+## 📖 About Me
 
-* 🎓 B.Tech Computer Science Engineering @ **CHARUSAT**
-* 🧠 Strong analytical & problem‑solving skills
-* 🎨 UI/UX enthusiast with an eye for detail
-* 🎥 Creativity influenced by filmmaking & photography
-* 🌌 Space, cyberpunk & Spider‑Verse aesthetics
+I'm passionate about technology and innovation! Currently working on projects involving **web development**, **artificial intelligence**, and **automation**. My goal is to create solutions that positively impact people's lives through technology.
 
-> *"With great power comes great responsibility."*
+Throughout my journey, I've dedicated myself to learning and mastering various technologies, always staying updated with the latest market trends. I believe knowledge should be shared, which is why I'm always willing to collaborate on open source projects.
 
----
+💡 **Favorite Quote**: "The only way to do great work is to love what you do." - Steve Jobs
 
-## 🕷️ Skill Orbit (Animated)
-
-<p align="center">
-  <img src="assets/skills-orbit.svg" />
-</p>
+🚀 I'm always looking for new challenges and opportunities to grow as a developer. If you have an interesting project or just want to exchange ideas, don't hesitate to contact me!
 
 ---
 
-## 🎧 Now Playing
+<!-- SOCIAL LINKS -->
+<div align="center">
+  
+### 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB">
-    <img src="https://img.shields.io/badge/Starboy–The%20Weeknd-1DB954?style=for-the-badge&logo=spotify&logoColor=black" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshat14z)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-patel)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akshat14z)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-<p align="center"><em>Midnight coding • Neon lights • Spider‑Verse</em></p>
-
----
-
-## 📊 Stats Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshat14z&show_icons=true&theme=dracula" height="160" />
-  <img src="https://streak-stats.demolab.com?user=Akshat14z&theme=dracula" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat14z&layout=compact&theme=dracula" height="140" />
-</p>
+</div>
 
 ---
 
-## 🧠 LeetCode Activity
+<!-- GITHUB STATS -->
+<div align="center">
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Akshat14z?theme=dark&font=Fira%20Code&ext=heatmap" />
-</p>
+## 📊 GitHub Stats
 
----
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Akshat14z&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat14z&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+    </td>
+  </tr>
+</table>
 
-## 🕸️ Contributions
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat14z&theme=radical&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akshat14z/Akshat14z/output/snake.svg" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat14z&layout=compact&theme=radical&hide_border=true)
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" /></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" /></a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  🕷️ <strong>Code in the shadows. Swing through challenges.</strong>
-</p>
+<!-- TECH STACK -->
+<div align="center">
+
+## 🛠️ Minhas Habilidades
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+---
+
+<!-- PROJECTS SHOWCASE -->
+<div align="center">
+
+## 🚀 Featured Projects
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌐 Portfolio Website</h3>
+      <div align="center">
+        <a href="https://github.com/Akshat14z/portfolio" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshat14z&repo=portfolio&theme=radical" alt="Portfolio"/>
+        </a>
+        <p>
+          <a href="https://github.com/Akshat14z/portfolio" target="_blank">
+            <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>HTML, CSS, JavaScript, React</strong> - A modern and responsive personal portfolio website showcasing my projects and skills.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 AI Project</h3>
+      <div align="center">
+        <a href="https://github.com/Akshat14z/ai-project" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshat14z&repo=ai-project&theme=radical" alt="AI Project"/>
+        </a>
+        <p>
+          <a href="https://github.com/Akshat14z/ai-project" target="_blank">
+            <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Python, TensorFlow, Machine Learning</strong> - An innovative AI-powered application using cutting-edge machine learning algorithms.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- MOST VISITED REPOS -->
+<div align="center">
+
+## 📂 Most Visited Repositories
+
+<a href="https://github.com/Akshat14z?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshat14z&repo=Akshat14z&theme=radical" alt="Profile Repo"/>
+</a>
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+  
+### 💭 Quote of the Day
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Akshat14z&color=blueviolet&style=for-the-badge)
+
+### ⚡ Fun Facts
+- 🔭 I'm currently working on exciting web development projects
+- 🌱 I'm currently learning advanced AI/ML techniques
+- 👯 I'm looking to collaborate on open source projects
+- 💬 Ask me about Web Development, Python, JavaScript
+- 📫 How to reach me: Check out my social links above!
+- ⚡ Fun fact: I love coding while listening to music 🎵
+
+---
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+---
+
+⭐️ From [Akshat14z](https://github.com/Akshat14z) | Made with ❤️ and lots of ☕
+
+</div>
