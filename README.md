@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=E23636&center=true&vCenter=true&width=650&lines=With+great+power...;...comes+great+responsibility.;Full-Stack+Dev+%7C+AI+Integration+%7C+Problem+Solver;Currently%3A+swinging+through+placement+prep+%F0%9F%95%B8%EF%B8%8F" />
 
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="260" />
+
 </div>
 
 <br>
@@ -54,6 +56,10 @@ I'm a **Computer Science Engineering** student building full-stack apps and AI-p
 <a href="mailto:patelakshat1411@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=E23636" /></a>
 
 </div>
+
+---
+
+<!-- SPOTIFY_WIDGET_PLACEHOLDER -->
 
 ---
 
@@ -161,13 +167,25 @@ Production B2B website built during internship — payments, admin panel, email 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat14z&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=E23636&text_color=c9d1d9" width="45%" />
 </div>
 
+---
+
+### 🧠 LeetCode Battle Log
+
 <div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Akshatx14?ext=heatmap&hide=ranking&colors=0d1117,1a1015,ffffff,c9d1d9,E23636,8B0000,B22222,FF6B6B" width="90%" />
+
+</div>
+
+---
 
 ### 🕸️ Web-Slinging Contribution Graph
 
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat14z&theme=react-dark&hide_border=true&bg_color=0d1117&color=E23636&line=E23636&point=1E3A8A" width="95%" />
-
 </div>
+
+<!-- SNAKE_ANIMATION_PLACEHOLDER -->
 
 ---
 
@@ -177,6 +195,8 @@ Production B2B website built during internship — payments, admin panel, email 
 
 > *"The real problem with throwaway code comes when it isn't thrown away."*
 > — Joseph Yoder
+
+> *"Code is never finished, it only gets better."*
 
 <br>
 
