@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8B0000,100:1E3A8A&height=200&section=header&text=Akshat%20Patel&fontSize=60&fontColor=E23636&animation=fadeIn&fontAlignY=38&desc=Friendly%20Neighborhood%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=c9d1d9" />
+<img src="https://raw.githubusercontent.com/Akshat14z/Akshat14z/main/assets/banner-logo.jpg" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=E23636&center=true&vCenter=true&width=650&lines=With+great+power...;...comes+great+responsibility.;Full-Stack+Dev+%7C+AI+Integration+%7C+Problem+Solver;Currently%3A+swinging+through+placement+prep+%F0%9F%95%B8%EF%B8%8F" />
+# Hi there, I'm Akshat Patel 🕷️
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="260" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=E23636&center=true&vCenter=true&width=650&lines=With+great+power...;...comes+great+responsibility.;Full-Stack+Dev+%7C+AI+Integration+%7C+Problem+Solver" />
 
 </div>
 
@@ -96,6 +96,18 @@ I'm a **Computer Science Engineering** student building full-stack apps and AI-p
 <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=E23636"/>
 <img src="https://img.shields.io/badge/Linux-E23636?style=for-the-badge&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=E23636"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Akshat14z/Akshat14z/main/assets/mask-eyes.jpg" width="70%" />
+
+### ⚠️ Caution
+
+Code is never finished, it only gets better.
+
+What you see here is built with practice, curiosity, and persistence.
 
 </div>
 
